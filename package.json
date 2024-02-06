@@ -1,0 +1,22 @@
+{
+  "name": "express",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HW-knowledge-management/express.git"
+  },
+  "author": "minicrane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HW-knowledge-management/express/issues"
+  },
+  "homepage": "https://github.com/HW-knowledge-management/express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
